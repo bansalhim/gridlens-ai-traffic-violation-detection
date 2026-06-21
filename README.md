@@ -1,4 +1,3 @@
-# gridlens-ai-traffic-violation-detection
 
 # GridLens AI — Flipkart Gridlock Hackathon Theme 3 Prototype
 
